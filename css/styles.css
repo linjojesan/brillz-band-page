@@ -1,0 +1,35 @@
+img {
+  float: center;
+  width:45%;
+  margin-top: 160px;
+  margin-left: 75%;
+
+}
+
+div {
+
+  margin-right: 50%;
+  padding-left: 25%;
+
+
+}
+
+p {
+  font-size: 30px;
+  font-family: 'Hind Siliguri', sans-serif;
+  text-align: center;
+  padding-top: 300px;
+
+}
+
+.column1 {
+
+  width: 300px;
+  float: left;
+}
+
+body {
+background-image: url("https://geo-media.beatport.com/image/5ea53278-9dfa-4a69-b5cf-259c15234d97.jpg");
+padding-top: 215px;
+
+}
